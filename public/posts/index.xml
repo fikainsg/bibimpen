@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on BibimPen Blog</title>
+    <link>https://fikainsg-special-potato-xpxw95v466xcprwr-1313.preview.app.github.dev/posts/</link>
+    <description>Recent content in Posts on BibimPen Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Mar 2023 16:09:58 +0000</lastBuildDate><atom:link href="https://fikainsg-special-potato-xpxw95v466xcprwr-1313.preview.app.github.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Forest City Golf Resort: A Paradise for Golf Lovers</title>
+      <link>https://fikainsg-special-potato-xpxw95v466xcprwr-1313.preview.app.github.dev/posts/second/</link>
+      <pubDate>Thu, 16 Mar 2023 16:09:58 +0000</pubDate>
+      
+      <guid>https://fikainsg-special-potato-xpxw95v466xcprwr-1313.preview.app.github.dev/posts/second/</guid>
+      <description>I had a wonderful time playing golf at Forest City Golf Resort in Johor last weekend. This resort has two amazing courses: the LGK Classic Course and the JN Legacy Course. Both courses are designed by renowned golf architects Jack Nicklaus and Liang Guo Kun, and offer stunning views of the natural landscape and the straits of Johor.
+I played on the Classic Course, which features a three-dimensional garden landscape with rolling hills, lakes, streams and bunkers.</description>
+    </item>
+    
+    <item>
+      <title>Markdown Text Test</title>
+      <link>https://fikainsg-special-potato-xpxw95v466xcprwr-1313.preview.app.github.dev/posts/first/</link>
+      <pubDate>Thu, 16 Mar 2023 15:26:26 +0000</pubDate>
+      
+      <guid>https://fikainsg-special-potato-xpxw95v466xcprwr-1313.preview.app.github.dev/posts/first/</guid>
+      <description>My First Markdown Blog Post Introduction Hello everyone! This is my first blog post written in markdown. Markdown is a lightweight markup language that makes it easy to format text for the web.
+Why I Love Markdown There are many reasons why I love using markdown. Here are just a few:
+It&amp;rsquo;s easy to learn and use It makes formatting text for the web quick and simple It&amp;rsquo;s widely supported by many platforms and tools Conclusion In conclusion, markdown is a great tool for anyone who wants to write for the web.</description>
+    </item>
+    
+  </channel>
+</rss>
